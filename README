@@ -1,7 +1,12 @@
-This is a clone of Infinite Mario, written in JavaScript for web browsers using HTML5.
+This is a clone of Infinite Mario, written in JavaScript for web browsers using HTML5.  
+这是 Infinite Mario 的一个克隆版本，使用 JavaScript 为支持 HTML5 的网页浏览器编写。
 
-A good demonstration of what can be accomplished with the Canvas and Audio elements.
+A good demonstration of what can be accomplished with the Canvas and Audio elements.  
+这是一个很好的示例，展示了通过 Canvas 和 Audio 元素可以实现的功能。
 
-Background music currently does not work in any browser besides Firefox 4. I think. There were too many problems with other browsers.
+Background music currently does not work in any browser besides Firefox 4. I think. There were too many problems with other browsers.  
+除了 Firefox 4（我认为）之外，目前其他浏览器都无法正常播放背景音乐。因为其他浏览器存在太多问题。
 
-Ported from the Java version by Notch (Markus Persson).
+Ported from the Java version by Notch (Markus Persson).  
+由 Notch（Markus Persson）的 Java 版本移植而来。
+
